@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'GHCircleMenu_Example' do
+  pod 'GHCircleMenu', :path => '../'
+end
+
+target 'GHCircleMenu_Tests' do
+	pod 'GHCircleMenu', :path => '../'
+    pod 'FBSnapshotTestCase'
+end
