@@ -1,0 +1,6 @@
+framework module GHCircleMenu {
+  umbrella header "GHCircleMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

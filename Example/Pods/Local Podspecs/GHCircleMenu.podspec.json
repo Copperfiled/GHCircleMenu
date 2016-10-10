@@ -1,0 +1,26 @@
+{
+  "name": "GHCircleMenu",
+  "version": "0.1.0",
+  "summary": "A short description of GHCircleMenu.",
+  "homepage": "https://github.com/Copperfiled/GHCircleMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Copperfiled": "guan.dassy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Copperfiled/GHCircleMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GHCircleMenu/Classes/**/*",
+  "resource_bundles": {
+    "GHCircleMenu": [
+      "GHCircleMenu/Assets/*.png"
+    ]
+  }
+}
