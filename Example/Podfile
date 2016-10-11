@@ -6,5 +6,4 @@ end
 
 target 'GHCircleMenu_Tests' do
 	pod 'GHCircleMenu', :path => '../'
-    pod 'FBSnapshotTestCase'
 end

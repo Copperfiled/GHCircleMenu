@@ -1,7 +1,7 @@
 {
   "name": "GHCircleMenu",
   "version": "0.1.0",
-  "summary": "A short description of GHCircleMenu.",
+  "summary": "圆形展开菜单",
   "homepage": "https://github.com/Copperfiled/GHCircleMenu",
   "license": {
     "type": "MIT",
@@ -21,6 +21,11 @@
   "resource_bundles": {
     "GHCircleMenu": [
       "GHCircleMenu/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "SnapKit": [
+      "0.22.0"
     ]
   }
 }

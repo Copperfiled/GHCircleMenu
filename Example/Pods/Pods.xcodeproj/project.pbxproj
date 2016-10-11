@@ -1,2641 +1,1066 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>00D190A29A964E0970B1C84F78197B90</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>GHCircleMenu</string>
-			<key>target</key>
-			<string>8465E763A823551E9CBE98E97BEDB5CC</string>
-			<key>targetProxy</key>
-			<string>05EC652BC6B48C4B42D725ADD50D6C5E</string>
-		</dict>
-		<key>052258A488A96C35531FAC73C4F42924</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>FBSnapshotTestController.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0528444EFC68619AD1FEB8A7CD4A01BA</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>QuartzCore.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/QuartzCore.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>05EC652BC6B48C4B42D725ADD50D6C5E</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>8465E763A823551E9CBE98E97BEDB5CC</string>
-			<key>remoteInfo</key>
-			<string>GHCircleMenu</string>
-		</dict>
-		<key>078B6F1E3BA19B0DA4E27FA30E17317F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>0A9D710B4E2559C342F8D20EA2175095</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>18A1DAF3DB2810D9F9051315F2E632B0</string>
-				<string>A28CBEE2CC54F65D3C3621BAAB46490C</string>
-				<string>5664FDD8671E5CF7EC3A0BA455BAB6F3</string>
-				<string>1FB0F61458E9EC86C549BB380AE406A7</string>
-				<string>B52DF397981C17E393BCF6D7B83B9FF3</string>
-				<string>31301B30EB6CDB0B282D6B9760D0473B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/GHCircleMenu</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0AA9BDD2EE167077970D198258CF5519</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>B6A67A3B998747E4290BF6010EC33806</string>
-				<string>8ACF6A5515A175054E22414BF740EF14</string>
-				<string>9FA3B93CE0ECAC3CDC30890659AACF82</string>
-				<string>130F048002A62769FAFCC66F2C79391A</string>
-				<string>68B245DB47CA60F8F9ADCA1E8CCDC324</string>
-				<string>EAA652557B70F493923A3447B5D64E0D</string>
-				<string>61EBC5CF0D5E065C88028B49C6B8D3B3</string>
-				<string>34A1C7E576C58A9D3F3101448308BF3E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>0B161931541BFE46DFEA2092EDDDA815</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIImage+Snapshot.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Snapshot.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0B3A3EC2BF636F29080C68D40A43F512</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>CC84094C1BE7D4922FD89AABF1F4AB79</string>
-				<string>56961D42D7938540F4EF4DB741448F12</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>0DCA734D7F7B0ACCB92ABF08B39356F6</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_GHCircleMenu_Example.framework</string>
-			<key>path</key>
-			<string>Pods_GHCircleMenu_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>0F93723A7761DDD2878776FB2EA65AC9</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>DADAF30F2D84FDAAD2ADD2D50C1F40DF</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/FBSnapshotTestCase/FBSnapshotTestCase-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/FBSnapshotTestCase/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/FBSnapshotTestCase/FBSnapshotTestCase.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>FBSnapshotTestCase</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>10D931EDA5DE4E482567CCF6EF45C35E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2393D1A899C707F79A64672C46ED238F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>10DE1947DAC0ED28F6C0A9F9BD75D546</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>11C22C7B844DF31A5EBDC9AC132C5E94</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3B5E22F9517F21D3A0251F88FCAB281E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>130A80FD33EED7E1E36BA810501624FB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D31B096AB4A0164C61B63F0E59AD76C9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>130F048002A62769FAFCC66F2C79391A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1374B79237CAC07693E99442FBED1F15</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>135F67BB8179108D68126AAB1AC10025</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1374B79237CAC07693E99442FBED1F15</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>FBSnapshotTestController.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>14163DBE3941DC38ABEE216600177A66</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>14B8B9B15ECBE87983FF987239AB2D7B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CD3FB7D37E46A5379C926728A416D78E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1549F91FCD089822594C1F5DB8AB9E8F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>823558E8AC8EB39D028DB5FBBEA227A3</string>
-				<string>DADAF30F2D84FDAAD2ADD2D50C1F40DF</string>
-				<string>52C18C0EB1FED5EB5CE3B0E768AC510F</string>
-				<string>CC12BCFA3FC0B8C307F5B38C673EDD12</string>
-				<string>73D037B3C804B9E1BB70538E342E5104</string>
-				<string>6E66B4218824CF8160D93713DDBEEA82</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/FBSnapshotTestCase</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>18A1DAF3DB2810D9F9051315F2E632B0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>GHCircleMenu.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1FB0F61458E9EC86C549BB380AE406A7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>GHCircleMenu-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>20B100879A6465519E3686C22BE83B56</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>DADAF30F2D84FDAAD2ADD2D50C1F40DF</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/FBSnapshotTestCase/FBSnapshotTestCase-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/FBSnapshotTestCase/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/FBSnapshotTestCase/FBSnapshotTestCase.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>FBSnapshotTestCase</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>21FA1933F46D715AE358951E4F0F2095</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F9B28B51463088BB6F0E83D95075FB26</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2287B5EBEAA3C332F8DB9A1E61F5B097</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F35791481CAFDD8E7715AE1B44687328</string>
-				<string>1549F91FCD089822594C1F5DB8AB9E8F</string>
-				<string>99E46DD4AB2256791F111C718CB0EEF8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2393D1A899C707F79A64672C46ED238F</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>246BB3235D7B3442506200E209203E68</key>
-		<dict>
-			<key>fileRef</key>
-			<string>853C84AC883B6FC690E82525E7ECB377</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2740E34482941B107C86E29016DA830C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>832308D495927624443686F9E3D136A9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2C87E1788C8FA06AE3481A2226E3AF2D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2EECE81A9AEC1ED1057A9C3C88DBCEBE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2CE49E99B4A5300AFA2E8E5DC64DBF58</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>FEBEDE5E23D28B39E8DFE92B9E8556BC</string>
-				<string>7403A0E3569C9E538A38FF7793C6DBCA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>552D02D5BA751AC2E8790D2811D496CA</string>
-				<string>10DE1947DAC0ED28F6C0A9F9BD75D546</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2EECE81A9AEC1ED1057A9C3C88DBCEBE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIApplication+StrictKeyWindow.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>31301B30EB6CDB0B282D6B9760D0473B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>32F681ACB2C058EDD69009C403F720AE</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>GHCircleMenu-GHCircleMenu</string>
-			<key>target</key>
-			<string>7F2FC10306CD952DF7D0E621A175C701</string>
-			<key>targetProxy</key>
-			<string>40CCB47DA396EEC22B0F7C5ADABE6854</string>
-		</dict>
-		<key>335581341BC3E9272200644397EB2431</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0528444EFC68619AD1FEB8A7CD4A01BA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>34A1C7E576C58A9D3F3101448308BF3E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0B161931541BFE46DFEA2092EDDDA815</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Private</string>
-				</array>
-			</dict>
-		</dict>
-		<key>3687BCAEDB2F0CDB16A793B840DF097A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7F8DAB809D0B071EA4697A646BD301D7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>39577E2B806B8B2D019998DE60728F63</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestCase.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3A6BC7C55D383139E79B4B65CC87F60C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3AB1798E36371B00D3AEC8A1CDB614C7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A28CBEE2CC54F65D3C3621BAAB46490C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/GHCircleMenu/GHCircleMenu-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/GHCircleMenu/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/GHCircleMenu/GHCircleMenu.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>GHCircleMenu</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>3AF23CF29B011FCA6946E334DB13EA10</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>A5F427CF711C3C6D14D4530EA2F4F08F</string>
-				<string>B0DBDF8DC80E23C38064E71631F1FAEC</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>3B5E22F9517F21D3A0251F88FCAB281E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIImage+Compare.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Compare.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C44D5F278CCF49E17CDF15EE5704EA7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C1D9802E473CF12CB5C024D080B7FB5D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Tests/Pods-GHCircleMenu_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_GHCircleMenu_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>3DBFBDCC891B770A2AC9EF0FB164B751</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIImage+Snapshot.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Snapshot.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>40CCB47DA396EEC22B0F7C5ADABE6854</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>7F2FC10306CD952DF7D0E621A175C701</string>
-			<key>remoteInfo</key>
-			<string>GHCircleMenu-GHCircleMenu</string>
-		</dict>
-		<key>42753644920E1D172B94F08F5212947A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>432938111B6FF0189EFFEDF2F845B308</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIImage+Compare.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Compare.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>48BB4E5C0C617DF1B642AFD76C22BC58</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>9192C66BC99C943FD6C1227745464D13</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Tests/Pods-GHCircleMenu_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_GHCircleMenu_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>497AA8816FC08215EF4C2431E1986992</key>
-		<dict>
-			<key>fileRef</key>
-			<string>52C18C0EB1FED5EB5CE3B0E768AC510F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4B485A6A5A1720B2F9A9711C70B5D566</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase</string>
-			<key>target</key>
-			<string>5DB46EA499F9A5E22765121102FCC34B</string>
-			<key>targetProxy</key>
-			<string>9FA47E105D6BB755DF14B7D934A924DA</string>
-		</dict>
-		<key>4BAD190DCC2DEEB97124384B1A7B0C03</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E696B8E1C3AAB1FE12D140FEB8745F30</string>
-			<key>buildPhases</key>
-			<array>
-				<string>749793663D0D1061B0F2823026CD1D2F</string>
-				<string>69F5CBDFF3F66DCE044FB21D89E68E96</string>
-				<string>70DF8C36F9FC1DFC5973D0B22F56C0E4</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>4B485A6A5A1720B2F9A9711C70B5D566</string>
-				<string>98D9665DFBA781B0D7EB03D3AD5347D6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-GHCircleMenu_Tests</string>
-			<key>productName</key>
-			<string>Pods-GHCircleMenu_Tests</string>
-			<key>productReference</key>
-			<string>BFEEAA0E6F0F3F7899714DF1C4537876</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>4BC9738216C5F20090417585BC9695C8</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A28CBEE2CC54F65D3C3621BAAB46490C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/GHCircleMenu/GHCircleMenu-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/GHCircleMenu/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/GHCircleMenu/GHCircleMenu.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>GHCircleMenu</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>50FEA2AA4E9BC902BBFED7C98DBA66BE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>52C18C0EB1FED5EB5CE3B0E768AC510F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>552D02D5BA751AC2E8790D2811D496CA</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>55E48F3D82185FC0B1C8D41A87FEC89F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5664FDD8671E5CF7EC3A0BA455BAB6F3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>GHCircleMenu-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>56961D42D7938540F4EF4DB741448F12</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A28CBEE2CC54F65D3C3621BAAB46490C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>GHCircleMenu</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>57FC8E7E2E2D16F841C997252683D1E1</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>4BC9738216C5F20090417585BC9695C8</string>
-				<string>3AB1798E36371B00D3AEC8A1CDB614C7</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>58A2557E7CE20AACCD1B28B1CD1F920D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>FBSnapshotTestCasePlatform.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestCasePlatform.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>58F999154050E608A5128D36DE8B3526</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>GHCircleMenu.framework</string>
-			<key>path</key>
-			<string>GHCircleMenu.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>5900375001F76A58E8E298EB43AB7A7E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D31B096AB4A0164C61B63F0E59AD76C9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5AE50A2966A5C2D1E5B66428C254A045</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5B52406AAF43636BF5E68FDDD5CDF0BC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>5DB46EA499F9A5E22765121102FCC34B</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>8D492E06A9E9F494492A2A3B4D19493E</string>
-			<key>buildPhases</key>
-			<array>
-				<string>7DE474775CBF413C7A124107E34E5614</string>
-				<string>F1A13ADE6C7840452C8DD4B939BFD24B</string>
-				<string>0AA9BDD2EE167077970D198258CF5519</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase</string>
-			<key>productName</key>
-			<string>FBSnapshotTestCase</string>
-			<key>productReference</key>
-			<string>FCEDF409192728C4F27E6D550EBB3D66</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>6183DD1DA0A4BF6DD88B6FD75A4B0A4B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>61EBC5CF0D5E065C88028B49C6B8D3B3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>85E250EF19C5B5671AEC10BEB508D087</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Private</string>
-				</array>
-			</dict>
-		</dict>
-		<key>626FBA1DD2B12BE88EFFD90EB740086F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>684FD9AE397D2C8B778FACA23CF3884C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>68B245DB47CA60F8F9ADCA1E8CCDC324</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B9109B8B333B5A1A3E92EFC09EDC10AC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Project</string>
-				</array>
-			</dict>
-		</dict>
-		<key>6914EE43A9B8B8D30220B3B6B0D57523</key>
-		<dict>
-			<key>fileRef</key>
-			<string>39577E2B806B8B2D019998DE60728F63</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>69CABA21B4F01CF2379246D6F6AA71EB</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6F090195A1E39D2D7BA40C2E3FC5D12D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>69F5CBDFF3F66DCE044FB21D89E68E96</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>130A80FD33EED7E1E36BA810501624FB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6AD3DED95D372054E1ACE4F87C7719A3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F7C0FAEEBD60564987A55D7CCFD92EB9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>GHCircleMenu</string>
-			<key>path</key>
-			<string>GHCircleMenu</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6CBD4E85F5DC5E8D7ADB46EDAAE63C2B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E4A16BF4D27C48BB1FE1E1CF5E8B90E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>58A2557E7CE20AACCD1B28B1CD1F920D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E66B4218824CF8160D93713DDBEEA82</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6F090195A1E39D2D7BA40C2E3FC5D12D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B52DF397981C17E393BCF6D7B83B9FF3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>70DF8C36F9FC1DFC5973D0B22F56C0E4</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>849159F5FD77C8A1C67DEB5711B253E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7300BED7A162B255A62BA2432D9057AA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>73D037B3C804B9E1BB70538E342E5104</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7403A0E3569C9E538A38FF7793C6DBCA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A2AB368791CFEFD2BF90930882F91D8F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>749793663D0D1061B0F2823026CD1D2F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>BB182F809FB0DB4CBC4AC8FEBE07D134</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>785C43C34AC6112DFF37A774F92C58C2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>3AF23CF29B011FCA6946E334DB13EA10</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B2429B53509C688B77592744F21FEED2</string>
-				<string>C732AB4C6C0F492AD82AA4AFCD8E8F6F</string>
-				<string>3687BCAEDB2F0CDB16A793B840DF097A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>00D190A29A964E0970B1C84F78197B90</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-GHCircleMenu_Example</string>
-			<key>productName</key>
-			<string>Pods-GHCircleMenu_Example</string>
-			<key>productReference</key>
-			<string>0DCA734D7F7B0ACCB92ABF08B39356F6</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>21FA1933F46D715AE358951E4F0F2095</string>
-				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
-				<string>FBD2D672921284E66F309CA3462F84D6</string>
-				<string>EF12B17D6566C4D0143EA3BEF04B7204</string>
-				<string>E792E076D5716031BF1C7D51F7B24FD1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7DE474775CBF413C7A124107E34E5614</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>497AA8816FC08215EF4C2431E1986992</string>
-				<string>6914EE43A9B8B8D30220B3B6B0D57523</string>
-				<string>6E4A16BF4D27C48BB1FE1E1CF5E8B90E</string>
-				<string>F47158C234C50FFB069A1EF8AB26D9F1</string>
-				<string>85D178DFCA1BC67BBFB1188E34EC5B19</string>
-				<string>2C87E1788C8FA06AE3481A2226E3AF2D</string>
-				<string>11C22C7B844DF31A5EBDC9AC132C5E94</string>
-				<string>C360952381641F725C15758993A0F665</string>
-				<string>D5C30BC656C11AF60394E3180A217BB1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7E3DB4D092B985E76E227F7F313C6981</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>FBSnapshotTestCasePlatform.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestCasePlatform.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7F2FC10306CD952DF7D0E621A175C701</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>0B3A3EC2BF636F29080C68D40A43F512</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B749BE20F05356B9EC7341A5FD8DDB7D</string>
-				<string>5B52406AAF43636BF5E68FDDD5CDF0BC</string>
-				<string>078B6F1E3BA19B0DA4E27FA30E17317F</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>GHCircleMenu-GHCircleMenu</string>
-			<key>productName</key>
-			<string>GHCircleMenu-GHCircleMenu</string>
-			<key>productReference</key>
-			<string>82EE49B6EA6EFE2ECE66CC724C330734</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>7F8DAB809D0B071EA4697A646BD301D7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BE7611E5E223119F07EB278B7828F5EC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>7FF5E9978A097548D3EBCDB944195CDD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>823558E8AC8EB39D028DB5FBBEA227A3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>82EE49B6EA6EFE2ECE66CC724C330734</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>GHCircleMenu.bundle</string>
-			<key>path</key>
-			<string>GHCircleMenu.bundle</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>832308D495927624443686F9E3D136A9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>82EE49B6EA6EFE2ECE66CC724C330734</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8465E763A823551E9CBE98E97BEDB5CC</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>57FC8E7E2E2D16F841C997252683D1E1</string>
-			<key>buildPhases</key>
-			<array>
-				<string>2CE49E99B4A5300AFA2E8E5DC64DBF58</string>
-				<string>D39D9D0E85CF02208BBDC1B29A2CE383</string>
-				<string>2740E34482941B107C86E29016DA830C</string>
-				<string>69CABA21B4F01CF2379246D6F6AA71EB</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>32F681ACB2C058EDD69009C403F720AE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>GHCircleMenu</string>
-			<key>productName</key>
-			<string>GHCircleMenu</string>
-			<key>productReference</key>
-			<string>58F999154050E608A5128D36DE8B3526</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>849159F5FD77C8A1C67DEB5711B253E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>14163DBE3941DC38ABEE216600177A66</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>853C84AC883B6FC690E82525E7ECB377</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>XCTest.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/XCTest.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>85D178DFCA1BC67BBFB1188E34EC5B19</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D97545C39C4A5EE2631DD9FFECE76A40</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>85D45286FBEE646921A022D3E06BCF31</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>85E250EF19C5B5671AEC10BEB508D087</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIImage+Diff.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Diff.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>87694E85639D73718C41DDBC4DA8C375</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D31B096AB4A0164C61B63F0E59AD76C9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8ACF6A5515A175054E22414BF740EF14</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E37899BD4B349060AA147E2A3721D3A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8D492E06A9E9F494492A2A3B4D19493E</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>0F93723A7761DDD2878776FB2EA65AC9</string>
-				<string>20B100879A6465519E3686C22BE83B56</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>9192C66BC99C943FD6C1227745464D13</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>98D9665DFBA781B0D7EB03D3AD5347D6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>GHCircleMenu</string>
-			<key>target</key>
-			<string>8465E763A823551E9CBE98E97BEDB5CC</string>
-			<key>targetProxy</key>
-			<string>EE393456BAE20860770720177A8C63CB</string>
-		</dict>
-		<key>99E46DD4AB2256791F111C718CB0EEF8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D97545C39C4A5EE2631DD9FFECE76A40</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>SwiftSupport</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9FA3B93CE0ECAC3CDC30890659AACF82</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7E3DB4D092B985E76E227F7F313C6981</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9FA47E105D6BB755DF14B7D934A924DA</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>5DB46EA499F9A5E22765121102FCC34B</string>
-			<key>remoteInfo</key>
-			<string>FBSnapshotTestCase</string>
-		</dict>
-		<key>A28CBEE2CC54F65D3C3621BAAB46490C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>GHCircleMenu.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A2AB368791CFEFD2BF90930882F91D8F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>ReplaceMe.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A5F427CF711C3C6D14D4530EA2F4F08F</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>55E48F3D82185FC0B1C8D41A87FEC89F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Example/Pods-GHCircleMenu_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_GHCircleMenu_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>AC809C3F66220F8939ABACCD6179BC5F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B0DBDF8DC80E23C38064E71631F1FAEC</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>626FBA1DD2B12BE88EFFD90EB740086F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-GHCircleMenu_Example/Pods-GHCircleMenu_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_GHCircleMenu_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>B2429B53509C688B77592744F21FEED2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EACFD33A97084C45606A8BF4EC97E028</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B52DF397981C17E393BCF6D7B83B9FF3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>GHCircleMenu-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B6A67A3B998747E4290BF6010EC33806</key>
-		<dict>
-			<key>fileRef</key>
-			<string>73D037B3C804B9E1BB70538E342E5104</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>B749BE20F05356B9EC7341A5FD8DDB7D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B9109B8B333B5A1A3E92EFC09EDC10AC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIApplication+StrictKeyWindow.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B9CEF7D6C5E08AB80E58DABC75D882BC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIImage+Diff.m</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/Categories/UIImage+Diff.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BB182F809FB0DB4CBC4AC8FEBE07D134</key>
-		<dict>
-			<key>fileRef</key>
-			<string>684FD9AE397D2C8B778FACA23CF3884C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BE7611E5E223119F07EB278B7828F5EC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BFEEAA0E6F0F3F7899714DF1C4537876</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_GHCircleMenu_Tests.framework</string>
-			<key>path</key>
-			<string>Pods_GHCircleMenu_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>C1D9802E473CF12CB5C024D080B7FB5D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C360952381641F725C15758993A0F665</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B9CEF7D6C5E08AB80E58DABC75D882BC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C732AB4C6C0F492AD82AA4AFCD8E8F6F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>5900375001F76A58E8E298EB43AB7A7E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>CC12BCFA3FC0B8C307F5B38C673EDD12</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CC84094C1BE7D4922FD89AABF1F4AB79</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A28CBEE2CC54F65D3C3621BAAB46490C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>GHCircleMenu</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>CD3FB7D37E46A5379C926728A416D78E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D31B096AB4A0164C61B63F0E59AD76C9</string>
-				<string>0528444EFC68619AD1FEB8A7CD4A01BA</string>
-				<string>2393D1A899C707F79A64672C46ED238F</string>
-				<string>853C84AC883B6FC690E82525E7ECB377</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D31B096AB4A0164C61B63F0E59AD76C9</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>D3834700120AA0F53E64F6B9A7AAB8F9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D39D9D0E85CF02208BBDC1B29A2CE383</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E45EBEE26907077BC18140419710894A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0700</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>EF12B17D6566C4D0143EA3BEF04B7204</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>5DB46EA499F9A5E22765121102FCC34B</string>
-				<string>8465E763A823551E9CBE98E97BEDB5CC</string>
-				<string>7F2FC10306CD952DF7D0E621A175C701</string>
-				<string>785C43C34AC6112DFF37A774F92C58C2</string>
-				<string>4BAD190DCC2DEEB97124384B1A7B0C03</string>
-			</array>
-		</dict>
-		<key>D5C30BC656C11AF60394E3180A217BB1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3DBFBDCC891B770A2AC9EF0FB164B751</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D97545C39C4A5EE2631DD9FFECE76A40</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>name</key>
-			<string>SwiftSupport.swift</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/SwiftSupport.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DADAF30F2D84FDAAD2ADD2D50C1F40DF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DFF452C7F61BA511CB392A5B3194988A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3A6BC7C55D383139E79B4B65CC87F60C</string>
-				<string>7FF5E9978A097548D3EBCDB944195CDD</string>
-				<string>5AE50A2966A5C2D1E5B66428C254A045</string>
-				<string>135F67BB8179108D68126AAB1AC10025</string>
-				<string>684FD9AE397D2C8B778FACA23CF3884C</string>
-				<string>F214547A78D224CDCDEFD60FB5B9F773</string>
-				<string>7300BED7A162B255A62BA2432D9057AA</string>
-				<string>14163DBE3941DC38ABEE216600177A66</string>
-				<string>C1D9802E473CF12CB5C024D080B7FB5D</string>
-				<string>9192C66BC99C943FD6C1227745464D13</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-GHCircleMenu_Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-GHCircleMenu_Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E37899BD4B349060AA147E2A3721D3A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase.h</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase/FBSnapshotTestCase.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E45EBEE26907077BC18140419710894A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D31B096AB4A0164C61B63F0E59AD76C9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E696B8E1C3AAB1FE12D140FEB8745F30</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>3C44D5F278CCF49E17CDF15EE5704EA7</string>
-				<string>48BB4E5C0C617DF1B642AFD76C22BC58</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E792E076D5716031BF1C7D51F7B24FD1</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EFBEDF456B555673B85497F396D1D670</string>
-				<string>DFF452C7F61BA511CB392A5B3194988A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EAA652557B70F493923A3447B5D64E0D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>432938111B6FF0189EFFEDF2F845B308</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Private</string>
-				</array>
-			</dict>
-		</dict>
-		<key>EACFD33A97084C45606A8BF4EC97E028</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AC809C3F66220F8939ABACCD6179BC5F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EE393456BAE20860770720177A8C63CB</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>8465E763A823551E9CBE98E97BEDB5CC</string>
-			<key>remoteInfo</key>
-			<string>GHCircleMenu</string>
-		</dict>
-		<key>EF12B17D6566C4D0143EA3BEF04B7204</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FCEDF409192728C4F27E6D550EBB3D66</string>
-				<string>82EE49B6EA6EFE2ECE66CC724C330734</string>
-				<string>58F999154050E608A5128D36DE8B3526</string>
-				<string>0DCA734D7F7B0ACCB92ABF08B39356F6</string>
-				<string>BFEEAA0E6F0F3F7899714DF1C4537876</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFBEDF456B555673B85497F396D1D670</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>50FEA2AA4E9BC902BBFED7C98DBA66BE</string>
-				<string>6CBD4E85F5DC5E8D7ADB46EDAAE63C2B</string>
-				<string>D3834700120AA0F53E64F6B9A7AAB8F9</string>
-				<string>6183DD1DA0A4BF6DD88B6FD75A4B0A4B</string>
-				<string>AC809C3F66220F8939ABACCD6179BC5F</string>
-				<string>85D45286FBEE646921A022D3E06BCF31</string>
-				<string>42753644920E1D172B94F08F5212947A</string>
-				<string>BE7611E5E223119F07EB278B7828F5EC</string>
-				<string>55E48F3D82185FC0B1C8D41A87FEC89F</string>
-				<string>626FBA1DD2B12BE88EFFD90EB740086F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-GHCircleMenu_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-GHCircleMenu_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F1A13ADE6C7840452C8DD4B939BFD24B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>87694E85639D73718C41DDBC4DA8C375</string>
-				<string>335581341BC3E9272200644397EB2431</string>
-				<string>10D931EDA5DE4E482567CCF6EF45C35E</string>
-				<string>246BB3235D7B3442506200E209203E68</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>F214547A78D224CDCDEFD60FB5B9F773</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-GHCircleMenu_Tests-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F35791481CAFDD8E7715AE1B44687328</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E37899BD4B349060AA147E2A3721D3A2</string>
-				<string>39577E2B806B8B2D019998DE60728F63</string>
-				<string>7E3DB4D092B985E76E227F7F313C6981</string>
-				<string>58A2557E7CE20AACCD1B28B1CD1F920D</string>
-				<string>1374B79237CAC07693E99442FBED1F15</string>
-				<string>052258A488A96C35531FAC73C4F42924</string>
-				<string>B9109B8B333B5A1A3E92EFC09EDC10AC</string>
-				<string>2EECE81A9AEC1ED1057A9C3C88DBCEBE</string>
-				<string>432938111B6FF0189EFFEDF2F845B308</string>
-				<string>3B5E22F9517F21D3A0251F88FCAB281E</string>
-				<string>85E250EF19C5B5671AEC10BEB508D087</string>
-				<string>B9CEF7D6C5E08AB80E58DABC75D882BC</string>
-				<string>0B161931541BFE46DFEA2092EDDDA815</string>
-				<string>3DBFBDCC891B770A2AC9EF0FB164B751</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Core</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F47158C234C50FFB069A1EF8AB26D9F1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>052258A488A96C35531FAC73C4F42924</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F7C0FAEEBD60564987A55D7CCFD92EB9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A2AB368791CFEFD2BF90930882F91D8F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F9B28B51463088BB6F0E83D95075FB26</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6AD3DED95D372054E1ACE4F87C7719A3</string>
-				<string>0A9D710B4E2559C342F8D20EA2175095</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>GHCircleMenu</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FBD2D672921284E66F309CA3462F84D6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2287B5EBEAA3C332F8DB9A1E61F5B097</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FCEDF409192728C4F27E6D550EBB3D66</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase.framework</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>FEBEDE5E23D28B39E8DFE92B9E8556BC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5664FDD8671E5CF7EC3A0BA455BAB6F3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C0355A391550133F9DE587298E47D5E /* Pods-GHCircleMenu_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AC809C3F66220F8939ABACCD6179BC5F /* Pods-GHCircleMenu_Example-dummy.m */; };
+		1FA2B6A7EDE5FF7DA3576BD10380E5B3 /* ConstraintMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03EFFB295211A70F01FAD48D41DF5F3 /* ConstraintMaker.swift */; };
+		38DAA1959843DFAD7699387476466811 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */; };
+		39071F63135F5BC91A088CB33441B5FE /* GHCircleMenu.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A965F06F228F11E94CD08605A030B551 /* GHCircleMenu.bundle */; };
+		3C051E16508E812062AECDDB4D65B626 /* EdgeInsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C496DA4CA3F61B29BB063F74876C70 /* EdgeInsets.swift */; };
+		3D20DEA947E31319815BCF85C89E8C16 /* icon_close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F635508727772C1FFD8C5DDB7EB1125 /* icon_close@2x.png */; };
+		52253E81BFA11C462CD9492FD6208332 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */; };
+		533C01AE37FD33CAB2615CE6A973D10F /* SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA1CFBED61FB63BBC905CD3AFEE402C /* SnapKit.swift */; };
+		5EADACB1D62C5F10CC8392F658E52C70 /* ConstraintAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEFB846E6A499B21514C1E298F56DE3B /* ConstraintAttributes.swift */; };
+		63BB3754BBD50F62AD6FD87D75C6723B /* Constraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C745F502C842A223464EC61885F02BB /* Constraint.swift */; };
+		688F528DCE52B405C9FBEBF6585079AC /* GHCircleMenu-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3651B753265A14E85CC6CB6F4823E2EE /* GHCircleMenu-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6951224227F9643009E0138A439073C1 /* ConstraintRelation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92DD83C2BF9A16815558CBFACD79C938 /* ConstraintRelation.swift */; };
+		6D7AA309C3F1A86E257E42BEA3552B25 /* SnapKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 079E5EE3CDB090004C84E658BC83AEB7 /* SnapKit-dummy.m */; };
+		781E9B950D7C2CBA4385A89AF094CEEB /* Pods-GHCircleMenu_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 14163DBE3941DC38ABEE216600177A66 /* Pods-GHCircleMenu_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		80C7ACF211F444E459233249B6721F15 /* icon_close@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 281ABCC8DA7F9D7BB4B0662E093966E6 /* icon_close@3x.png */; };
+		82264671E03E01CD32A85CAA8ADBC750 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */; };
+		9FAC16BC7662A05A73BCB2051ACCC04B /* LayoutConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = B869919EAC3B1E5EF05B0107B595C13C /* LayoutConstraint.swift */; };
+		A7213F8587D00201C6398EC32FC7CAD3 /* Pods-GHCircleMenu_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 684FD9AE397D2C8B778FACA23CF3884C /* Pods-GHCircleMenu_Tests-dummy.m */; };
+		B75E2DB9DFED7FEFDD3C1E6E33B6F07A /* icon_draw@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D79B5C70222960F9753D5DAD1DC82AEA /* icon_draw@2x.png */; };
+		C2363A9F0E0EE18C0BCF58DD3784BF8B /* ConstraintDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3061A45F7542E986BCB23EBBD8AD4A13 /* ConstraintDescription.swift */; };
+		C4408A895D0CFC6F6EA0E059A5619810 /* View+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BB547CA6D4862CCE70A4B51F1EABAE /* View+SnapKit.swift */; };
+		C9B5F8C0E06875911E89129FBC11F92D /* GHCircleMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D63CAA39AC9DEA6688FE7F3EB5869BD /* GHCircleMenu.swift */; };
+		D7C7FDE88D6CA7C66EA2A3F42417CF0F /* ViewController+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A877C5C14A8B495ECAB69BE839FFA44 /* ViewController+SnapKit.swift */; };
+		DEB47B2425B4A546C88C9E81399FB010 /* Debugging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415D45FAC3D162C8D3F9CFE592F79E42 /* Debugging.swift */; };
+		E0D8E887F8079E1766606CAF1DEEE869 /* SnapKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 17ED37A4D4337C9AC445D07BA9E09051 /* SnapKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E34296B85ADE4ABD39B3E92F1D27128F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */; };
+		E6BE0D623DB3DB4A7777A33F0B596DE1 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42E6B36692CB79785C933E25719FA6F /* SnapKit.framework */; };
+		EF8BAE8FC37AD6CEE940531BBB4278D8 /* ConstraintItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7ED5648C0C88C2BBB8B1737D3C811DF /* ConstraintItem.swift */; };
+		F380C2C088B20705CAF4858AC6C6D752 /* GHCircleMenu-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 713D38C49042369CE4F49A39AEE85309 /* GHCircleMenu-dummy.m */; };
+		F5F26BB7ABAC9EFD144A1D1D30DF5627 /* Pods-GHCircleMenu_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BE7611E5E223119F07EB278B7828F5EC /* Pods-GHCircleMenu_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F8BE6805716349FA7B61D0A524A6C443 /* icon_draw@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 30EA51CEB7DC4BCBBF05921E205931FF /* icon_draw@3x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0D213D209CD88CA3B2BBB41A453455BB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0201BDA8ECF1D45446FAEEA877172BEF;
+			remoteInfo = SnapKit;
+		};
+		26FA7B001DF3EB741882DB8C0D24A482 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0201BDA8ECF1D45446FAEEA877172BEF;
+			remoteInfo = SnapKit;
+		};
+		7C17B88B1DEC9A681551B5BACA799E57 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D5880C7D451D1F075E47093AEBEC0076;
+			remoteInfo = "GHCircleMenu-GHCircleMenu";
+		};
+		A668ACC3971D839E061897810F6D9169 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BC5C015BFED336795D39BE0E43F31DA3;
+			remoteInfo = GHCircleMenu;
+		};
+		C9283B8328E80C291EF02C95C6057970 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BC5C015BFED336795D39BE0E43F31DA3;
+			remoteInfo = GHCircleMenu;
+		};
+		FD391E88D0A92BB45B2E056EF4B531C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0201BDA8ECF1D45446FAEEA877172BEF;
+			remoteInfo = SnapKit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		079E5EE3CDB090004C84E658BC83AEB7 /* SnapKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SnapKit-dummy.m"; sourceTree = "<group>"; };
+		135F67BB8179108D68126AAB1AC10025 /* Pods-GHCircleMenu_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GHCircleMenu_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		14163DBE3941DC38ABEE216600177A66 /* Pods-GHCircleMenu_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GHCircleMenu_Tests-umbrella.h"; sourceTree = "<group>"; };
+		17ED37A4D4337C9AC445D07BA9E09051 /* SnapKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapKit-umbrella.h"; sourceTree = "<group>"; };
+		19A27FB63DFB5C9112673009019428E0 /* Pods_GHCircleMenu_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GHCircleMenu_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A877C5C14A8B495ECAB69BE839FFA44 /* ViewController+SnapKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ViewController+SnapKit.swift"; path = "Source/ViewController+SnapKit.swift"; sourceTree = "<group>"; };
+		1EA1CFBED61FB63BBC905CD3AFEE402C /* SnapKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SnapKit.swift; path = Source/SnapKit.swift; sourceTree = "<group>"; };
+		281ABCC8DA7F9D7BB4B0662E093966E6 /* icon_close@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_close@3x.png"; sourceTree = "<group>"; };
+		3061A45F7542E986BCB23EBBD8AD4A13 /* ConstraintDescription.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintDescription.swift; path = Source/ConstraintDescription.swift; sourceTree = "<group>"; };
+		30EA51CEB7DC4BCBBF05921E205931FF /* icon_draw@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_draw@3x.png"; sourceTree = "<group>"; };
+		3651B753265A14E85CC6CB6F4823E2EE /* GHCircleMenu-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GHCircleMenu-umbrella.h"; sourceTree = "<group>"; };
+		36BADE5F1518FDF9C6986F935A04893A /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A6BC7C55D383139E79B4B65CC87F60C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		415D45FAC3D162C8D3F9CFE592F79E42 /* Debugging.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Debugging.swift; path = Source/Debugging.swift; sourceTree = "<group>"; };
+		42753644920E1D172B94F08F5212947A /* Pods-GHCircleMenu_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GHCircleMenu_Example-resources.sh"; sourceTree = "<group>"; };
+		495929FB6F57FC07CF2233838AD92579 /* SnapKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapKit-prefix.pch"; sourceTree = "<group>"; };
+		4F635508727772C1FFD8C5DDB7EB1125 /* icon_close@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_close@2x.png"; sourceTree = "<group>"; };
+		50FEA2AA4E9BC902BBFED7C98DBA66BE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55BB547CA6D4862CCE70A4B51F1EABAE /* View+SnapKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "View+SnapKit.swift"; path = "Source/View+SnapKit.swift"; sourceTree = "<group>"; };
+		55E48F3D82185FC0B1C8D41A87FEC89F /* Pods-GHCircleMenu_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GHCircleMenu_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		56B1FCA085C2AC4CDCEB52E3588F26EB /* SnapKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SnapKit.modulemap; sourceTree = "<group>"; };
+		5AE50A2966A5C2D1E5B66428C254A045 /* Pods-GHCircleMenu_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GHCircleMenu_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		6183DD1DA0A4BF6DD88B6FD75A4B0A4B /* Pods-GHCircleMenu_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GHCircleMenu_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		626FBA1DD2B12BE88EFFD90EB740086F /* Pods-GHCircleMenu_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GHCircleMenu_Example.release.xcconfig"; sourceTree = "<group>"; };
+		684FD9AE397D2C8B778FACA23CF3884C /* Pods-GHCircleMenu_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GHCircleMenu_Tests-dummy.m"; sourceTree = "<group>"; };
+		6CBD4E85F5DC5E8D7ADB46EDAAE63C2B /* Pods-GHCircleMenu_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-GHCircleMenu_Example.modulemap"; sourceTree = "<group>"; };
+		713D38C49042369CE4F49A39AEE85309 /* GHCircleMenu-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GHCircleMenu-dummy.m"; sourceTree = "<group>"; };
+		7300BED7A162B255A62BA2432D9057AA /* Pods-GHCircleMenu_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GHCircleMenu_Tests-resources.sh"; sourceTree = "<group>"; };
+		7FF5E9978A097548D3EBCDB944195CDD /* Pods-GHCircleMenu_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-GHCircleMenu_Tests.modulemap"; sourceTree = "<group>"; };
+		85D45286FBEE646921A022D3E06BCF31 /* Pods-GHCircleMenu_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GHCircleMenu_Example-frameworks.sh"; sourceTree = "<group>"; };
+		884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		89A040DBCABCF6CDB679A085C84845F7 /* Pods_GHCircleMenu_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GHCircleMenu_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		90D8599FCFCA98DB19D3DE0AD81D9CD6 /* SnapKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SnapKit.xcconfig; sourceTree = "<group>"; };
+		9192C66BC99C943FD6C1227745464D13 /* Pods-GHCircleMenu_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GHCircleMenu_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		92DD83C2BF9A16815558CBFACD79C938 /* ConstraintRelation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintRelation.swift; path = Source/ConstraintRelation.swift; sourceTree = "<group>"; };
+		9C745F502C842A223464EC61885F02BB /* Constraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constraint.swift; path = Source/Constraint.swift; sourceTree = "<group>"; };
+		9D63CAA39AC9DEA6688FE7F3EB5869BD /* GHCircleMenu.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GHCircleMenu.swift; sourceTree = "<group>"; };
+		A03EFFB295211A70F01FAD48D41DF5F3 /* ConstraintMaker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMaker.swift; path = Source/ConstraintMaker.swift; sourceTree = "<group>"; };
+		A7C496DA4CA3F61B29BB063F74876C70 /* EdgeInsets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EdgeInsets.swift; path = Source/EdgeInsets.swift; sourceTree = "<group>"; };
+		A804ABA92EC1DA52844E140917F08DF4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A965F06F228F11E94CD08605A030B551 /* GHCircleMenu.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GHCircleMenu.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB3C6A929A1C548D7DA6B9C5527FF281 /* GHCircleMenu-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GHCircleMenu-prefix.pch"; sourceTree = "<group>"; };
+		AC809C3F66220F8939ABACCD6179BC5F /* Pods-GHCircleMenu_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GHCircleMenu_Example-dummy.m"; sourceTree = "<group>"; };
+		B869919EAC3B1E5EF05B0107B595C13C /* LayoutConstraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutConstraint.swift; path = Source/LayoutConstraint.swift; sourceTree = "<group>"; };
+		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		BE7611E5E223119F07EB278B7828F5EC /* Pods-GHCircleMenu_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GHCircleMenu_Example-umbrella.h"; sourceTree = "<group>"; };
+		BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GHCircleMenu.xcconfig; sourceTree = "<group>"; };
+		C1D9802E473CF12CB5C024D080B7FB5D /* Pods-GHCircleMenu_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GHCircleMenu_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		C42E6B36692CB79785C933E25719FA6F /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4BCD1A15740371BCA0AE114365787A9 /* GHCircleMenu.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = GHCircleMenu.modulemap; sourceTree = "<group>"; };
+		D3834700120AA0F53E64F6B9A7AAB8F9 /* Pods-GHCircleMenu_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GHCircleMenu_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		D79B5C70222960F9753D5DAD1DC82AEA /* icon_draw@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_draw@2x.png"; sourceTree = "<group>"; };
+		DEFB846E6A499B21514C1E298F56DE3B /* ConstraintAttributes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintAttributes.swift; path = Source/ConstraintAttributes.swift; sourceTree = "<group>"; };
+		E7A549505C55E4028C4BB9CB8A4597E4 /* GHCircleMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GHCircleMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7B02A4CC5CB35352D4E9BB46B638CBC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7ED5648C0C88C2BBB8B1737D3C811DF /* ConstraintItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintItem.swift; path = Source/ConstraintItem.swift; sourceTree = "<group>"; };
+		F214547A78D224CDCDEFD60FB5B9F773 /* Pods-GHCircleMenu_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GHCircleMenu_Tests-frameworks.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		43EDC2E82F2A1910EC90570708F00C35 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5CF2D82396677ADD177B44B6A5C71251 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				38DAA1959843DFAD7699387476466811 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD1D14FC04803E68322E3BB7DC6A0C1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52253E81BFA11C462CD9492FD6208332 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC4A03FA02C7E63DA8E50F31C41EB675 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				82264671E03E01CD32A85CAA8ADBC750 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D168A9674B3A5943375D1E2BE0F0B361 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E34296B85ADE4ABD39B3E92F1D27128F /* Foundation.framework in Frameworks */,
+				E6BE0D623DB3DB4A7777A33F0B596DE1 /* SnapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		22FAB1893F849E41A35F571340F51A0C /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				4F635508727772C1FFD8C5DDB7EB1125 /* icon_close@2x.png */,
+				281ABCC8DA7F9D7BB4B0662E093966E6 /* icon_close@3x.png */,
+				D79B5C70222960F9753D5DAD1DC82AEA /* icon_draw@2x.png */,
+				30EA51CEB7DC4BCBBF05921E205931FF /* icon_draw@3x.png */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		3159C6AB5BAC88D50841CE9E5917D955 /* GHCircleMenu */ = {
+			isa = PBXGroup;
+			children = (
+				564D783EF3461CF59D21242E3E7BF060 /* Classes */,
+			);
+			path = GHCircleMenu;
+			sourceTree = "<group>";
+		};
+		497EDBB5B5DA63D5CEDDF1A9CEB8C577 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				884FA7DAF6CE1609220EB41DD5F10C3C /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		564D783EF3461CF59D21242E3E7BF060 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				9D63CAA39AC9DEA6688FE7F3EB5869BD /* GHCircleMenu.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7A30ADABC44CCA0D9BC282B82A6F71FB /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A804ABA92EC1DA52844E140917F08DF4 /* Info.plist */,
+				56B1FCA085C2AC4CDCEB52E3588F26EB /* SnapKit.modulemap */,
+				90D8599FCFCA98DB19D3DE0AD81D9CD6 /* SnapKit.xcconfig */,
+				079E5EE3CDB090004C84E658BC83AEB7 /* SnapKit-dummy.m */,
+				495929FB6F57FC07CF2233838AD92579 /* SnapKit-prefix.pch */,
+				17ED37A4D4337C9AC445D07BA9E09051 /* SnapKit-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SnapKit";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
+				99515FDE93A095E321387BE460DDDEDA /* Development Pods */,
+				D8B25C6DF01BE2C3F2FA6A25AEE6417A /* Frameworks */,
+				AAD880A40C1D678CA44C4575218EDE0E /* Pods */,
+				8B68B84383DF3E2FA203BBB4159CDF57 /* Products */,
+				E792E076D5716031BF1C7D51F7B24FD1 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8B68B84383DF3E2FA203BBB4159CDF57 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A965F06F228F11E94CD08605A030B551 /* GHCircleMenu.bundle */,
+				E7A549505C55E4028C4BB9CB8A4597E4 /* GHCircleMenu.framework */,
+				19A27FB63DFB5C9112673009019428E0 /* Pods_GHCircleMenu_Example.framework */,
+				89A040DBCABCF6CDB679A085C84845F7 /* Pods_GHCircleMenu_Tests.framework */,
+				36BADE5F1518FDF9C6986F935A04893A /* SnapKit.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		99515FDE93A095E321387BE460DDDEDA /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F034ABF5DB1EA54C6EB9699730B1C109 /* GHCircleMenu */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		9D81ED8ED26424037D11A87014A988FA /* GHCircleMenu */ = {
+			isa = PBXGroup;
+			children = (
+				22FAB1893F849E41A35F571340F51A0C /* Assets */,
+			);
+			path = GHCircleMenu;
+			sourceTree = "<group>";
+		};
+		AA69C7B7CAA8740277B95A90DE1D2D48 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9D81ED8ED26424037D11A87014A988FA /* GHCircleMenu */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		AAD880A40C1D678CA44C4575218EDE0E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B3254E0B2B4708A89CF556DF239CDBA9 /* SnapKit */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		B3254E0B2B4708A89CF556DF239CDBA9 /* SnapKit */ = {
+			isa = PBXGroup;
+			children = (
+				9C745F502C842A223464EC61885F02BB /* Constraint.swift */,
+				DEFB846E6A499B21514C1E298F56DE3B /* ConstraintAttributes.swift */,
+				3061A45F7542E986BCB23EBBD8AD4A13 /* ConstraintDescription.swift */,
+				E7ED5648C0C88C2BBB8B1737D3C811DF /* ConstraintItem.swift */,
+				A03EFFB295211A70F01FAD48D41DF5F3 /* ConstraintMaker.swift */,
+				92DD83C2BF9A16815558CBFACD79C938 /* ConstraintRelation.swift */,
+				415D45FAC3D162C8D3F9CFE592F79E42 /* Debugging.swift */,
+				A7C496DA4CA3F61B29BB063F74876C70 /* EdgeInsets.swift */,
+				B869919EAC3B1E5EF05B0107B595C13C /* LayoutConstraint.swift */,
+				1EA1CFBED61FB63BBC905CD3AFEE402C /* SnapKit.swift */,
+				55BB547CA6D4862CCE70A4B51F1EABAE /* View+SnapKit.swift */,
+				1A877C5C14A8B495ECAB69BE839FFA44 /* ViewController+SnapKit.swift */,
+				7A30ADABC44CCA0D9BC282B82A6F71FB /* Support Files */,
+			);
+			path = SnapKit;
+			sourceTree = "<group>";
+		};
+		D8B25C6DF01BE2C3F2FA6A25AEE6417A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C42E6B36692CB79785C933E25719FA6F /* SnapKit.framework */,
+				497EDBB5B5DA63D5CEDDF1A9CEB8C577 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DFF452C7F61BA511CB392A5B3194988A /* Pods-GHCircleMenu_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				3A6BC7C55D383139E79B4B65CC87F60C /* Info.plist */,
+				7FF5E9978A097548D3EBCDB944195CDD /* Pods-GHCircleMenu_Tests.modulemap */,
+				5AE50A2966A5C2D1E5B66428C254A045 /* Pods-GHCircleMenu_Tests-acknowledgements.markdown */,
+				135F67BB8179108D68126AAB1AC10025 /* Pods-GHCircleMenu_Tests-acknowledgements.plist */,
+				684FD9AE397D2C8B778FACA23CF3884C /* Pods-GHCircleMenu_Tests-dummy.m */,
+				F214547A78D224CDCDEFD60FB5B9F773 /* Pods-GHCircleMenu_Tests-frameworks.sh */,
+				7300BED7A162B255A62BA2432D9057AA /* Pods-GHCircleMenu_Tests-resources.sh */,
+				14163DBE3941DC38ABEE216600177A66 /* Pods-GHCircleMenu_Tests-umbrella.h */,
+				C1D9802E473CF12CB5C024D080B7FB5D /* Pods-GHCircleMenu_Tests.debug.xcconfig */,
+				9192C66BC99C943FD6C1227745464D13 /* Pods-GHCircleMenu_Tests.release.xcconfig */,
+			);
+			name = "Pods-GHCircleMenu_Tests";
+			path = "Target Support Files/Pods-GHCircleMenu_Tests";
+			sourceTree = "<group>";
+		};
+		E792E076D5716031BF1C7D51F7B24FD1 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				EFBEDF456B555673B85497F396D1D670 /* Pods-GHCircleMenu_Example */,
+				DFF452C7F61BA511CB392A5B3194988A /* Pods-GHCircleMenu_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		EFBEDF456B555673B85497F396D1D670 /* Pods-GHCircleMenu_Example */ = {
+			isa = PBXGroup;
+			children = (
+				50FEA2AA4E9BC902BBFED7C98DBA66BE /* Info.plist */,
+				6CBD4E85F5DC5E8D7ADB46EDAAE63C2B /* Pods-GHCircleMenu_Example.modulemap */,
+				D3834700120AA0F53E64F6B9A7AAB8F9 /* Pods-GHCircleMenu_Example-acknowledgements.markdown */,
+				6183DD1DA0A4BF6DD88B6FD75A4B0A4B /* Pods-GHCircleMenu_Example-acknowledgements.plist */,
+				AC809C3F66220F8939ABACCD6179BC5F /* Pods-GHCircleMenu_Example-dummy.m */,
+				85D45286FBEE646921A022D3E06BCF31 /* Pods-GHCircleMenu_Example-frameworks.sh */,
+				42753644920E1D172B94F08F5212947A /* Pods-GHCircleMenu_Example-resources.sh */,
+				BE7611E5E223119F07EB278B7828F5EC /* Pods-GHCircleMenu_Example-umbrella.h */,
+				55E48F3D82185FC0B1C8D41A87FEC89F /* Pods-GHCircleMenu_Example.debug.xcconfig */,
+				626FBA1DD2B12BE88EFFD90EB740086F /* Pods-GHCircleMenu_Example.release.xcconfig */,
+			);
+			name = "Pods-GHCircleMenu_Example";
+			path = "Target Support Files/Pods-GHCircleMenu_Example";
+			sourceTree = "<group>";
+		};
+		F034ABF5DB1EA54C6EB9699730B1C109 /* GHCircleMenu */ = {
+			isa = PBXGroup;
+			children = (
+				3159C6AB5BAC88D50841CE9E5917D955 /* GHCircleMenu */,
+				AA69C7B7CAA8740277B95A90DE1D2D48 /* Resources */,
+				FCBDACEE20335A8AA631D87229E58B20 /* Support Files */,
+			);
+			name = GHCircleMenu;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		FCBDACEE20335A8AA631D87229E58B20 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C4BCD1A15740371BCA0AE114365787A9 /* GHCircleMenu.modulemap */,
+				BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */,
+				713D38C49042369CE4F49A39AEE85309 /* GHCircleMenu-dummy.m */,
+				AB3C6A929A1C548D7DA6B9C5527FF281 /* GHCircleMenu-prefix.pch */,
+				3651B753265A14E85CC6CB6F4823E2EE /* GHCircleMenu-umbrella.h */,
+				E7B02A4CC5CB35352D4E9BB46B638CBC /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/GHCircleMenu";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1B57486D4C3E9EC008AA36A65F568FC7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F5F26BB7ABAC9EFD144A1D1D30DF5627 /* Pods-GHCircleMenu_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42A9E1A0057681E63CF7B32D7760FF9D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				781E9B950D7C2CBA4385A89AF094CEEB /* Pods-GHCircleMenu_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		97E31ADCA493B962B25A0B188C4D6E4A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0D8E887F8079E1766606CAF1DEEE869 /* SnapKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C080994B7D14C8E8EB86D87DD215C754 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				688F528DCE52B405C9FBEBF6585079AC /* GHCircleMenu-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		0201BDA8ECF1D45446FAEEA877172BEF /* SnapKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 863953F807D9F5F46E652AD6BB7CFAF0 /* Build configuration list for PBXNativeTarget "SnapKit" */;
+			buildPhases = (
+				E3FDC1FE92D13AD09E652E7E7700C91A /* Sources */,
+				5CF2D82396677ADD177B44B6A5C71251 /* Frameworks */,
+				97E31ADCA493B962B25A0B188C4D6E4A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnapKit;
+			productName = SnapKit;
+			productReference = 36BADE5F1518FDF9C6986F935A04893A /* SnapKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		2B3C5B8BE7D7D888B71BE24189089E14 /* Pods-GHCircleMenu_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE68EC6110F43BBA61B7D413E1C798BD /* Build configuration list for PBXNativeTarget "Pods-GHCircleMenu_Example" */;
+			buildPhases = (
+				731E6A6CC4B3F88834684F4EE55BBE38 /* Sources */,
+				BC4A03FA02C7E63DA8E50F31C41EB675 /* Frameworks */,
+				1B57486D4C3E9EC008AA36A65F568FC7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4986C055E099FFBB69675A6ECD193E94 /* PBXTargetDependency */,
+				A66729F94AE62C1F403665DB703C36CF /* PBXTargetDependency */,
+			);
+			name = "Pods-GHCircleMenu_Example";
+			productName = "Pods-GHCircleMenu_Example";
+			productReference = 19A27FB63DFB5C9112673009019428E0 /* Pods_GHCircleMenu_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		BC5C015BFED336795D39BE0E43F31DA3 /* GHCircleMenu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1244644B49EE688B7E544EF5A61F43EE /* Build configuration list for PBXNativeTarget "GHCircleMenu" */;
+			buildPhases = (
+				007E1052E52E37DF73662486A2D6FFEC /* Sources */,
+				D168A9674B3A5943375D1E2BE0F0B361 /* Frameworks */,
+				29B28906BC0B2539CA36FD487D6E6F9A /* Resources */,
+				C080994B7D14C8E8EB86D87DD215C754 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1ED70DD87D9D3C5456AAB028B96755F3 /* PBXTargetDependency */,
+				997A4427B5191B4A93A4673F1F3F2A99 /* PBXTargetDependency */,
+			);
+			name = GHCircleMenu;
+			productName = GHCircleMenu;
+			productReference = E7A549505C55E4028C4BB9CB8A4597E4 /* GHCircleMenu.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		D5880C7D451D1F075E47093AEBEC0076 /* GHCircleMenu-GHCircleMenu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 229C96F2754D094F4F4BB7166A78C56D /* Build configuration list for PBXNativeTarget "GHCircleMenu-GHCircleMenu" */;
+			buildPhases = (
+				C71B1A371829905525A8FCBA1B24EABE /* Sources */,
+				43EDC2E82F2A1910EC90570708F00C35 /* Frameworks */,
+				29D02788FA9EFC361D2C575A64841633 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "GHCircleMenu-GHCircleMenu";
+			productName = "GHCircleMenu-GHCircleMenu";
+			productReference = A965F06F228F11E94CD08605A030B551 /* GHCircleMenu.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		E52E5AD57E6F358EDF97771C224BDE24 /* Pods-GHCircleMenu_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F02206B1773F57926D1656896561F5D /* Build configuration list for PBXNativeTarget "Pods-GHCircleMenu_Tests" */;
+			buildPhases = (
+				C64B42889C740663F5C2BB29B3671535 /* Sources */,
+				AD1D14FC04803E68322E3BB7DC6A0C1C /* Frameworks */,
+				42A9E1A0057681E63CF7B32D7760FF9D /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				64867AAE312BEC90ED4B6686425B4C75 /* PBXTargetDependency */,
+				9CB05C2E63B6D132173271C33DE5F07F /* PBXTargetDependency */,
+			);
+			name = "Pods-GHCircleMenu_Tests";
+			productName = "Pods-GHCircleMenu_Tests";
+			productReference = 89A040DBCABCF6CDB679A085C84845F7 /* Pods_GHCircleMenu_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 8B68B84383DF3E2FA203BBB4159CDF57 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BC5C015BFED336795D39BE0E43F31DA3 /* GHCircleMenu */,
+				D5880C7D451D1F075E47093AEBEC0076 /* GHCircleMenu-GHCircleMenu */,
+				2B3C5B8BE7D7D888B71BE24189089E14 /* Pods-GHCircleMenu_Example */,
+				E52E5AD57E6F358EDF97771C224BDE24 /* Pods-GHCircleMenu_Tests */,
+				0201BDA8ECF1D45446FAEEA877172BEF /* SnapKit */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		29B28906BC0B2539CA36FD487D6E6F9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39071F63135F5BC91A088CB33441B5FE /* GHCircleMenu.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		29D02788FA9EFC361D2C575A64841633 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D20DEA947E31319815BCF85C89E8C16 /* icon_close@2x.png in Resources */,
+				80C7ACF211F444E459233249B6721F15 /* icon_close@3x.png in Resources */,
+				B75E2DB9DFED7FEFDD3C1E6E33B6F07A /* icon_draw@2x.png in Resources */,
+				F8BE6805716349FA7B61D0A524A6C443 /* icon_draw@3x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		007E1052E52E37DF73662486A2D6FFEC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F380C2C088B20705CAF4858AC6C6D752 /* GHCircleMenu-dummy.m in Sources */,
+				C9B5F8C0E06875911E89129FBC11F92D /* GHCircleMenu.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		731E6A6CC4B3F88834684F4EE55BBE38 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C0355A391550133F9DE587298E47D5E /* Pods-GHCircleMenu_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C64B42889C740663F5C2BB29B3671535 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7213F8587D00201C6398EC32FC7CAD3 /* Pods-GHCircleMenu_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C71B1A371829905525A8FCBA1B24EABE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E3FDC1FE92D13AD09E652E7E7700C91A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63BB3754BBD50F62AD6FD87D75C6723B /* Constraint.swift in Sources */,
+				5EADACB1D62C5F10CC8392F658E52C70 /* ConstraintAttributes.swift in Sources */,
+				C2363A9F0E0EE18C0BCF58DD3784BF8B /* ConstraintDescription.swift in Sources */,
+				EF8BAE8FC37AD6CEE940531BBB4278D8 /* ConstraintItem.swift in Sources */,
+				1FA2B6A7EDE5FF7DA3576BD10380E5B3 /* ConstraintMaker.swift in Sources */,
+				6951224227F9643009E0138A439073C1 /* ConstraintRelation.swift in Sources */,
+				DEB47B2425B4A546C88C9E81399FB010 /* Debugging.swift in Sources */,
+				3C051E16508E812062AECDDB4D65B626 /* EdgeInsets.swift in Sources */,
+				9FAC16BC7662A05A73BCB2051ACCC04B /* LayoutConstraint.swift in Sources */,
+				6D7AA309C3F1A86E257E42BEA3552B25 /* SnapKit-dummy.m in Sources */,
+				533C01AE37FD33CAB2615CE6A973D10F /* SnapKit.swift in Sources */,
+				C4408A895D0CFC6F6EA0E059A5619810 /* View+SnapKit.swift in Sources */,
+				D7C7FDE88D6CA7C66EA2A3F42417CF0F /* ViewController+SnapKit.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1ED70DD87D9D3C5456AAB028B96755F3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "GHCircleMenu-GHCircleMenu";
+			target = D5880C7D451D1F075E47093AEBEC0076 /* GHCircleMenu-GHCircleMenu */;
+			targetProxy = 7C17B88B1DEC9A681551B5BACA799E57 /* PBXContainerItemProxy */;
+		};
+		4986C055E099FFBB69675A6ECD193E94 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GHCircleMenu;
+			target = BC5C015BFED336795D39BE0E43F31DA3 /* GHCircleMenu */;
+			targetProxy = A668ACC3971D839E061897810F6D9169 /* PBXContainerItemProxy */;
+		};
+		64867AAE312BEC90ED4B6686425B4C75 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GHCircleMenu;
+			target = BC5C015BFED336795D39BE0E43F31DA3 /* GHCircleMenu */;
+			targetProxy = C9283B8328E80C291EF02C95C6057970 /* PBXContainerItemProxy */;
+		};
+		997A4427B5191B4A93A4673F1F3F2A99 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SnapKit;
+			target = 0201BDA8ECF1D45446FAEEA877172BEF /* SnapKit */;
+			targetProxy = 26FA7B001DF3EB741882DB8C0D24A482 /* PBXContainerItemProxy */;
+		};
+		9CB05C2E63B6D132173271C33DE5F07F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SnapKit;
+			target = 0201BDA8ECF1D45446FAEEA877172BEF /* SnapKit */;
+			targetProxy = FD391E88D0A92BB45B2E056EF4B531C0 /* PBXContainerItemProxy */;
+		};
+		A66729F94AE62C1F403665DB703C36CF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SnapKit;
+			target = 0201BDA8ECF1D45446FAEEA877172BEF /* SnapKit */;
+			targetProxy = 0D213D209CD88CA3B2BBB41A453455BB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		28B11A790773ABEAE9133D0F68A9FC0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 626FBA1DD2B12BE88EFFD90EB740086F /* Pods-GHCircleMenu_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-GHCircleMenu_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GHCircleMenu_Example/Pods-GHCircleMenu_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_GHCircleMenu_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		552D02D5BA751AC2E8790D2811D496CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		646C2FFD46DBFA56B3AB68F316AC3DBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/GHCircleMenu/GHCircleMenu-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GHCircleMenu/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GHCircleMenu/GHCircleMenu.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = GHCircleMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6533A4E5CE4109EA4107A81FB4E5D4ED /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90D8599FCFCA98DB19D3DE0AD81D9CD6 /* SnapKit.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SnapKit/SnapKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SnapKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SnapKit/SnapKit.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SnapKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		65FF2C1C27198CC4CFD8936CDCC9B201 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55E48F3D82185FC0B1C8D41A87FEC89F /* Pods-GHCircleMenu_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-GHCircleMenu_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GHCircleMenu_Example/Pods-GHCircleMenu_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_GHCircleMenu_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		BEF172013C1F05D915E88D598F934CB4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90D8599FCFCA98DB19D3DE0AD81D9CD6 /* SnapKit.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SnapKit/SnapKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SnapKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SnapKit/SnapKit.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SnapKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C9625DD066BEAD1A8854F4DCBAF7B26B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/GHCircleMenu/GHCircleMenu-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GHCircleMenu/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GHCircleMenu/GHCircleMenu.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = GHCircleMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CF7CA74250FDD61CB4FACB81DB1B8DE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C1D9802E473CF12CB5C024D080B7FB5D /* Pods-GHCircleMenu_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-GHCircleMenu_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GHCircleMenu_Tests/Pods-GHCircleMenu_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_GHCircleMenu_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D181BD8918F272722FEF38DF22B37C4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = GHCircleMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		FAC662E6DA9B802BBCDE894943A3267C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEA39B42FDBAC762E28C2E3A35D57624 /* GHCircleMenu.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = GHCircleMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		FFD0F334104D4C0070BB5DF27F966FF2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9192C66BC99C943FD6C1227745464D13 /* Pods-GHCircleMenu_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-GHCircleMenu_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GHCircleMenu_Tests/Pods-GHCircleMenu_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_GHCircleMenu_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1244644B49EE688B7E544EF5A61F43EE /* Build configuration list for PBXNativeTarget "GHCircleMenu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				646C2FFD46DBFA56B3AB68F316AC3DBB /* Debug */,
+				C9625DD066BEAD1A8854F4DCBAF7B26B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		229C96F2754D094F4F4BB7166A78C56D /* Build configuration list for PBXNativeTarget "GHCircleMenu-GHCircleMenu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAC662E6DA9B802BBCDE894943A3267C /* Debug */,
+				D181BD8918F272722FEF38DF22B37C4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				552D02D5BA751AC2E8790D2811D496CA /* Debug */,
+				10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2F02206B1773F57926D1656896561F5D /* Build configuration list for PBXNativeTarget "Pods-GHCircleMenu_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF7CA74250FDD61CB4FACB81DB1B8DE0 /* Debug */,
+				FFD0F334104D4C0070BB5DF27F966FF2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		863953F807D9F5F46E652AD6BB7CFAF0 /* Build configuration list for PBXNativeTarget "SnapKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BEF172013C1F05D915E88D598F934CB4 /* Debug */,
+				6533A4E5CE4109EA4107A81FB4E5D4ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE68EC6110F43BBA61B7D413E1C798BD /* Build configuration list for PBXNativeTarget "Pods-GHCircleMenu_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65FF2C1C27198CC4CFD8936CDCC9B201 /* Debug */,
+				28B11A790773ABEAE9133D0F68A9FC0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

@@ -85,9 +85,9 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-GHCircleMenu_Tests/GHCircleMenu.framework"
-  install_framework "Pods-GHCircleMenu_Tests/FBSnapshotTestCase.framework"
+  install_framework "Pods-GHCircleMenu_Tests/SnapKit.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-GHCircleMenu_Tests/GHCircleMenu.framework"
-  install_framework "Pods-GHCircleMenu_Tests/FBSnapshotTestCase.framework"
+  install_framework "Pods-GHCircleMenu_Tests/SnapKit.framework"
 fi

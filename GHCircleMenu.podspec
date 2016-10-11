@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GHCircleMenu'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of GHCircleMenu.'
+  s.summary          = '圆形展开菜单 swift 2.X, 不支持swift 3.X'
 
   s.homepage         = 'https://github.com/Copperfiled/GHCircleMenu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -21,4 +21,5 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+    s.dependency 'SnapKit', '0.22.0'
 end
